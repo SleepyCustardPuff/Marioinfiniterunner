@@ -18,6 +18,6 @@
       SleepyCustardPuff
   </author>
 
-  <icon src="icon.png" /x
+  <icon src=*icon.png* />
 
 </widget>
