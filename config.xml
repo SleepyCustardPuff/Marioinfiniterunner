@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
-    id          = "com.MarioInfiniteRun.scp"
+    id          = "com.marioinfiniterun.mobile"
     versionCode = "10"
     version     = "1.0.0" >
 
@@ -10,14 +10,12 @@
   <name>Mario Infinite Runner</name>
 
   <description>
-      Bowser has a new trick up his sleeve to defeat Mario: a disappearing floor!
-      Jump, collect coins, do anything to avoid the giant pit!
+      A simple Android build of a Scratch game
   </description>
 
   <author href="https://www.youtube.com/channel/UCBROpc2lDflPUWs6fT47glQ" email="strangecrackcartoons@gmail.com">
       SleepyCustardPuff
   </author>
-
-  <icon src=*icon.png* />
+  <icon=*icon.png*> />
 
 </widget>
